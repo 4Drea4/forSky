@@ -16,7 +16,7 @@
   padding: 0; }
 
 body {
-  font-family: "Archivo Narrow", sans-serif;
+  font-family:'Heebo', sans-serif;
   font-size: 14px; }
 
 h1,
@@ -26,7 +26,7 @@ h4,
 h5,
 h6 {
   font-family: "Archivo Narrow", sans-serif;
-  color: #000000;
+  color: #117A65 ;
   line-height: 1.3;
   font-weight: 700; }
 
