@@ -296,7 +296,7 @@ img {
 
 /* :: 3.7.0 ScrollUp */
 #scrollUp {
-  background-color: #094B00;
+  background-color: #202B47;
   border-radius: 0;
   bottom: 50px;
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
@@ -320,7 +320,7 @@ img {
 
 /* :: 3.8.0 oneMusic Button */
 .oneMusic-btn {
-  background-color: #094B00;
+  background-color: #202B47;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
   position: relative;
@@ -341,14 +341,14 @@ img {
   .oneMusic-btn:hover, .oneMusic-btn:focus {
     font-size: 16px;
     font-weight: 700;
-    background-color: #094B00;
+    background-color: #5D3B63;
     color: #fff; }
   .oneMusic-btn.btn-2 {
-    background-color: #094B00;
+    background-color: #202B47;
     color: #fff; }
     .oneMusic-btn.btn-2:hover, .oneMusic-btn.btn-2:focus {
       background-color: #202B47;
-      color: #094B00; }
+      color: #5D3B63; }
 
 /* :: 4.0 Header Area CSS */
 .header-area {
